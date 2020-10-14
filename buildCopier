@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "Building the myCopier application"
+echo "The C++ version is called myCopier"
+g++ myCopier.cpp -o myCopier
+echo "Finished"
+
